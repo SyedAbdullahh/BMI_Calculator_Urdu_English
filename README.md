@@ -5,6 +5,8 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+![bmi-chart](https://github.com/SyedAbdullahh/BMI_Calculator_Urdu_English/assets/103010202/dc26789b-a437-4c3f-8332-5e5ebd5f6b6e)
+
 
 A few resources to get you started if this is your first Flutter project:
 
