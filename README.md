@@ -31,3 +31,9 @@ Contributions to the Calculator App are welcome. If you find any issues or have 
 ![ss3_app](https://github.com/SyedAbdullahh/BMI_Calculator_Urdu_English/assets/103010202/bf1440eb-a4cb-490c-92ef-1e9770f5e81b)
 ![ss2_app](https://github.com/SyedAbdullahh/BMI_Calculator_Urdu_English/assets/103010202/206ad716-6922-452f-a95a-57fa24f26206)
 ![ss1_app](https://github.com/SyedAbdullahh/BMI_Calculator_Urdu_English/assets/103010202/4d950550-6361-45c4-8f59-d6a77b7ba82a)
+
+## Contributors
+
+- [@SyedAbdullahh](https://github.com/SyedAbdullahh)
+- [@muaaznadeem25](https://github.com/muaaznadeem25)
+
